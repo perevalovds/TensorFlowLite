@@ -4,8 +4,9 @@ Image classifier using Tensor Flow Lite and Python.
 Based on https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/examples/python
 
 ## Requirements
-Python 3.8
-Can be used without GPU
+Python 3.8.
+
+Can be used without GPU.
 
 ## Installation
 1. Install Python
